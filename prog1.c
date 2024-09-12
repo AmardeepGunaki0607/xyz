@@ -1,6 +1,6 @@
 #incude<stdio>.h
 void main()
 {
-print("wel cometo gitlab1");
-printf("aditya");
+printf("wel cometo gitlab1");
+printf("gadduge");
 }
