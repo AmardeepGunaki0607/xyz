@@ -1,4 +1,4 @@
-X#include<stdio.h>
+#include<stdio.h>
 void main()
 {
 printf("Study tonight - Best place to learn C");
