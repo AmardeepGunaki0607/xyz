@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("hello"):
+printf("changes done for showing stash command"):
+printf("nothing change");
 }
